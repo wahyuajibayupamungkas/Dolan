@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dolan</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="andrian">Andrian</string>
+    <string name="aprillia">Aprillia</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="anda_harus_daftar_dulu">Anda Harus daftar dulu</string>
+    <string name="nama">Nama</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="daftar_disini">Daftar disini !</string>
+    <string name="name">Name</string>
+    <string name="hasil_tidak_ditemukan">Hasil tidak ditemukan !</string>
+</resources>
